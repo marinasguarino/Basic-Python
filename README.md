@@ -1,4 +1,4 @@
-# Basic-Python
+# Basic - Intermediate Python
 Teoría explicada para aquellos que quieran aprender Python de una forma sencilla y con ejemplos explicados.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Basic level: Python desde 0. Explicado por capítulos 
